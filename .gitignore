@@ -1,0 +1,18 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.env
+.venv/
+venv/
+
+# OpenSCAD / App temporary outputs
+*.scad.tmp
+output/
+temp/
+*.tmp
+
+# OS files
+desktop.ini
+Thumbs.db
+.DS_Store
