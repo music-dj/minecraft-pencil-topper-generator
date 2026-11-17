@@ -6,6 +6,12 @@ __pycache__/
 .venv/
 venv/
 
+# PyInstaller build artifacts
+build/
+dist/
+*.spec
+*.zip
+
 # OpenSCAD / App temporary outputs
 *.scad.tmp
 output/

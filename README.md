@@ -6,6 +6,9 @@
 [![OpenSCAD](https://img.shields.io/badge/CAD-OpenSCAD-yellow.svg)](https://openscad.org/)
 [![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 
+[![Download Windows Exe](https://img.shields.io/badge/Download-Windows%20Exe%20(v1.0.0)-blue?logo=windows&style=for-the-badge)](https://github.com/music-dj/minecraft-pencil-topper-generator/releases/latest)
+
+
 An interactive parametric web application designed for 3D printing enthusiasts. Generates custom Minecraft-themed pencil toppers and name keyrings with instantaneous color rendering and clean STL file export.
 
 تطبيق ويب تفاعلي لتوليد مجسمات ثلاثية الأبعاد جاهزة للطباعة (قبعات أقلام وميداليات مفاتيح) بنمط خط ماينكرافت الشهير مع ميزة المعاينة الفورية الملونة وتصدير ملفات STL بضغطة زر.
